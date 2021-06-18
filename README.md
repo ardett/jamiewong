@@ -26,11 +26,11 @@
     </p>
     <p>
     I can also embed a video! 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </p>
-    
-    <a href="https://www.tumblr.com/blog_auth/public-library">Here's a link to my project :)</a>
-    
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>
+    <a href="https://www.tumblr.com/blog_auth/public-library">Here's a link to my project :)</a> 
+    </p>
     <!-- just a personal example of how to comment-->
 
 </body>
