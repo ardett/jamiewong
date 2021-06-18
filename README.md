@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html>
 <body style="background-color:powderblue;">
     <p>
@@ -35,4 +33,4 @@
     <!-- just a personal example of how to comment-->
 
 </body>
-<!-- </html> -->
+</html>
