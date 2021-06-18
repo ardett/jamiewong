@@ -21,5 +21,10 @@
         <li>unordered</li>
         <li>list</li>
     </ul>
+    <a href="https://www.tumblr.com/blog_auth/public-library">Here's a link to my project :)</a>
+    <!-- just a personal example of how to comment-->
+    <a href="/another html page">I can link to another page in this directory</a>
+    [another html page.txt](https://github.com/ardett/jamiewong/files/6679098/another.html.page.txt)
+
 </body>
 </html>
