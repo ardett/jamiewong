@@ -35,4 +35,4 @@
     <!-- just a personal example of how to comment-->
 
 </body>
-</html>
+<!-- </html> -->
