@@ -21,10 +21,17 @@
         <li>unordered</li>
         <li>list</li>
     </ul>
+    <p>
+    I can also add an image to my website! <img src="https://theknow.denverpost.com/wp-content/uploads/2020/04/GettyImages-1089392442.jpg" alt="stack of books">
+    </p>
+    <p>
+    I can also embed a video! 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </p>
+    
     <a href="https://www.tumblr.com/blog_auth/public-library">Here's a link to my project :)</a>
+    
     <!-- just a personal example of how to comment-->
-    <a href="/another html page">I can link to another page in this directory</a>
-    [another html page.txt](https://github.com/ardett/jamiewong/files/6679098/another.html.page.txt)
 
 </body>
 </html>
