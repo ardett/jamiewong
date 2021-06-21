@@ -35,3 +35,133 @@
 
 </body>
 </html>
+
+<css>
+    #workskin .window {
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#workskin .topbar {
+  background-color: #404040;
+  color: #FFFFFF;
+  border-color: #404040;
+  border-style: solid;
+  border-width: 1px;
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 66%;
+  padding: 2px;
+height: 1.5em;
+overflow: hidden;
+  text-overflow: clip;
+}
+
+#workskin .topbar:before {
+  content: 'Email';
+  display: inline-block;
+  position: relative;
+  float: left;
+  font-weight: bold;
+  padding: 0 3px;
+width: 85%;
+}
+
+#workskin .topbar:after {
+  content: ' _ X';
+  display: inline-block;
+  position: relative;
+  font-weight: bold;
+  padding-right: 5px;
+  float: right;
+  color: #cfcfcf;
+  -webkit-transform: scale(1.5, 1.0);
+  -moz-transform: scale(1.5, 1.0);
+  -ms-transform: scale(1.5, 1.0);
+  -o-transform: scale(1.5, 1.0);
+  transform: scale(1.5,1.0);
+  cursor: pointer;
+}
+
+#workskin .textfield {
+  border-color: #cfcfcf;
+  border-style: solid;
+  border-width: 1px;
+  border-bottom: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 66%;
+  padding: 2px;
+  color: #000000;
+  background-color: #FFFFFF;
+}
+
+#workskin .ebody {
+  width: 66%;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 2px;
+  padding-right: 2px;
+  text-align: justify;
+  color: #000000;
+  background-color: #FFFFFF;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: auto;
+  display: block;
+  height: 250px;
+  border-color: #cfcfcf;
+  border-style: solid;
+  border-width: 1px;
+}
+
+#workskin .ebody::-webkit-scrollbar {
+  -webkit-appearance: none;
+}
+
+#workskin .ebody::-webkit-scrollbar:vertical {
+  width: 12px;
+}
+
+#workskin .ebody::-webkit-scrollbar:horizontal {
+  height: 12px;
+}
+
+#workskin .ebody::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, .5);
+  border-radius: 10px;
+  border: 2px solid #ffffff;
+}
+
+#workskin .ebody::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+
+#workskin .buttonbar {
+  border-color: #cfcfcf;
+  background-color: #f5f5f5;
+  color: #000000;
+  border-style: solid;
+  border-width: 1px;
+  border-top: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 66%;
+  padding: 2px;
+height: 1.5em;
+overflow: hidden;
+  text-overflow: clip;
+}
+
+#workskin .buttonbar:after {
+  content: 'Reply | Forward | Delete';
+  display: inline-block;
+  position: relative;
+  float: left;
+  padding: 0 3px;
+  cursor: pointer;
+}
