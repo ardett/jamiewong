@@ -1,5 +1,24 @@
 <html>
 <body style="background-color:powderblue;">
+    
+    body, html {
+  height: 100%;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("img_parallax.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+    
     <p>
     <h1>Hello!</h1>
     </p>
