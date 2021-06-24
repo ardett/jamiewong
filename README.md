@@ -2,7 +2,7 @@
  <html> 
     <head>
     
-    <body style="background-color:powderblue;">
+    <body style="background-color:white;">
     
     <style>
 h1 {text-align: center;}
