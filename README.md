@@ -466,11 +466,11 @@ b,strong {font-weight:700;}
     <!-- Sypnosis   
     <h1>Synopsis</h1>
     I am not that great at coding in html. But here's an example of some italics and emphasized text.-->
-    <h1>You found it!</h1>
+    <h3>You found it!</h3>
     
-    <h3>Use the link below to access my final project!</h3>
+    <h4>Use the link below to access my final project!</h4>
     
-    <h4><a href="https://public-library.tumblr.com/">The password is: $$$</a></h4>
+    <h5><a href="https://public-library.tumblr.com/">The password is: $$$</a></h5>
     
 
    
