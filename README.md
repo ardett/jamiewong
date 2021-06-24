@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
  <html> 
     <head>
     
@@ -17,7 +17,7 @@ h6 {text-align: center;}
 <h1>Find my project :)</h1>
 <h1>-</h1>
 
-<!DOCTYPE html>
+
 <head>
 
 
@@ -247,7 +247,6 @@ b,strong {font-weight:700;}
 <!-- START HEADER -->
 <div class="sidebar">
     
-{Description}
     
     <div class="navigation">
     </div>
