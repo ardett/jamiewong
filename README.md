@@ -14,6 +14,7 @@ h6 {text-align: center;}
 </style>
 
 <h1>Find my project :)</h1>
+     <h3>Don't forget to scroll!</h3>
 
 
 <head>
