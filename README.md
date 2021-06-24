@@ -13,9 +13,7 @@ h5 {text-align: center;}
 h6 {text-align: center;}
 </style>
 
-<h1>-</h1>
 <h1>Find my project :)</h1>
-<h1>-</h1>
 
 
 <head>
